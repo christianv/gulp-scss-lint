@@ -103,7 +103,7 @@ If you use gulp-watch set endless to true.
 #### sync
 
 - Type: Boolean
-- Default: sync
+- Default: false
 
 `scss-lint` will be executed in sequence.
 
